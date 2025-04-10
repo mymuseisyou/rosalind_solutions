@@ -8,3 +8,4 @@
 * **ID: REVC** - Complementing a Strand of DNA | [CODE](https://github.com/mymuseisyou/rosalind_solutions/blob/main/code/250407_rosalind_revc.c)
 * **ID: FIB** - Rabbits and Recurrence Relations | [CODE](https://github.com/mymuseisyou/rosalind_solutions/blob/main/code/250407_rosalind_fib.c)
 * **ID: GC** - Computing GC Content | [CODE](https://github.com/mymuseisyou/rosalind_solutions/blob/main/code/250409_rosalind_gc.py)
+* **ID: HAMM** - Counting Point Mutations | [CODE](https://github.com/mymuseisyou/rosalind_solutions/blob/main/code/250410_rosalind_hamm.py)
